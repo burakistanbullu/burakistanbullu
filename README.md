@@ -21,3 +21,5 @@ print(intro)
 ### Main tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=linux,redhat,docker,k8s,openshift,aws,gcp,terraform,ansible,jenkins,git,github,githubactions,prometheus,grafana,nginx,redis,kafka,rabbitmq,elasticsearch,python,powershell,cloudflare,)](https://skillicons.dev)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=burakistanbullu&theme=tokyo-night)
