@@ -1,5 +1,18 @@
 ## Hi guys, welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20">
 
+
+```python
+# package about
+
+name = "Burak"
+role = "Site Reliability Engineer"
+otherskills = "DevOps, Cloud, Automation, Observability"
+
+intro = f"I'm {name}, a {role} and {otherskills}."
+print(intro)
+# Output: I'm Burak, a Site Reliability Engineer and DevOps, Cloud, Automation, Observability.
+```
+
 ### 📫 Contact
 
 - 📧 burak.istanbullu@outlook.com  
@@ -15,8 +28,6 @@
 ### Main tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=linux,redhat,docker,k8s,openshift,aws,gcp,terraform,ansible,jenkins,git,github,githubactions,prometheus,grafana,nginx,redis,kafka,rabbitmq,elasticsearch,python,powershell,cloudflare,)](https://skillicons.dev)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=burakistanbullu&theme=tokyo-night)
 
 ![Snake animation](https://github.com/burakistanbullu/burakistanbullu/blob/output/snake.svg)
 
