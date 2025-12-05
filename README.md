@@ -14,8 +14,8 @@ print(intro)
 ### 📜 Certifications
 
 ![CKA](https://img.shields.io/badge/Kubernetes-CKA-326ce5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Associate-844FBA?logo=terraform&logoColor=white)
 ![GCP PCA](https://img.shields.io/badge/Google%20Cloud-Professional%20Cloud%20Architect-4285F4?logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Associate-844FBA?logo=terraform&logoColor=white)
 ![Azure AZ900](https://img.shields.io/badge/Microsoft%20Azure-AZ900-%230078D4?logo=microsoftazure&logoColor=white)
 
 ### Main tech stack
