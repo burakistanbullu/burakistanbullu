@@ -8,9 +8,9 @@ name = "Burak"
 role = "Site Reliability Engineer"
 otherskills = "DevOps, Cloud, Automation, Observability"
 
-intro = f"I'm {name}, a {role} and {otherskills}."
+intro = f"I'm {name}, a {role} with experience in {otherskills}."
 print(intro)
-# Output: I'm Burak, a Site Reliability Engineer and DevOps, Cloud, Automation, Observability.
+# Output: I’m Burak, a Site Reliability Engineer with experience in DevOps, Cloud, Automation, and Observability.
 ```
 
 ### 📫 Contact
